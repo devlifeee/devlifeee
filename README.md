@@ -1,4 +1,4 @@
-<h1 align="center">Hello, World! I am Ivan. height="32"></h1>
+<h1 align="center"> Hello, World! I am Ivan.</h1>
 <h2> align="center"> Hello, I am a Python and JavaScript developer </h2>
 
 <h3> Tech Stack </h3> 
