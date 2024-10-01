@@ -1,6 +1,6 @@
 <h1 align="center"> Hello, World! I am Ivan </h1>
 
-<h2 align="center"> I am a Python and JavaScript developer </h2>
+<h2 align="center"> I am a russian Python and JavaScript developer </h2>
 
 <h3> Tech Stack </h3>
 
@@ -16,7 +16,9 @@
 <h4>📊 Stats</h4>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=vn7n24fzkq&theme=default&utcOffset=8)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=vn7n24fzkq&theme=default)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vn7n24fzkq&theme=default)
 <h5>My social networks </h5>
 <a href="https://t.me/qwertyIMIM">
   <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white">
@@ -24,3 +26,4 @@
 <a href="mailto:imnovojilovivan@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
 </a>
+
