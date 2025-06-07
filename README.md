@@ -2,9 +2,9 @@
 
 <h2 align="center"> I am a russian Python and JavaScript developer </h2>
 
-<h2 align="center">
+<!--<h2 align="center">
   <a href="https://devlifee.ru">My  personal site</a>
-</h2>
+</h2>-->
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/devlifeee/devlifeee/output/github-contribution-grid-snake-dark.svg">
