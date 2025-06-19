@@ -13,8 +13,6 @@
 </picture>
 
 
-## Total code time:
-[![wakatime](https://wakatime.com/badge/user/252b5747-a88b-4c64-b802-fe2db981f1ee.svg)](https://wakatime.com/@252b5747-a88b-4c64-b802-fe2db981f1ee)
 
 
 <h3> Tech Stack </h3>
