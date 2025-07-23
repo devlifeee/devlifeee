@@ -16,8 +16,8 @@
 ## Total code time:
 [![wakatime](https://wakatime.com/badge/user/252b5747-a88b-4c64-b802-fe2db981f1ee.svg)](https://wakatime.com/@252b5747-a88b-4c64-b802-fe2db981f1ee)
 
-## My achivments:
-<h3>Призер Nuclear it hack 2025 от МИФИ</h3>
+  ## 💪 My achivments:
+<h4>Победитель Nuclear it hack 2025 от МИФИ</h4>
 
 <h3> Tech Stack </h3>
 
