@@ -1,4 +1,4 @@
-<h1 align="center"> Hello World! I am Ivan Novozhilov</h1>
+<h2 align="center"> Hello World! I am Ivan Novozhilov</h2>
 
 <h2 align="center"> I am a russian Python and JavaScript developer </h2>
 
@@ -16,23 +16,10 @@
 ## Total code time:
 [![wakatime](https://wakatime.com/badge/user/252b5747-a88b-4c64-b802-fe2db981f1ee.svg)](https://wakatime.com/@252b5747-a88b-4c64-b802-fe2db981f1ee)
 
-  ## 💪 My achivments:
+  ## My achivments:
 <h4> · Победитель Nuclear it hack 2025 от МИФИ</h4>
 
 <h3> Tech Stack </h3>
-
-## 📊STATS:
-
-<div>
-  <img  align=top src="https://github-readme-stats.vercel.app/api?username=devlifeee&count_private=true?show_icons=true&hide_border=true&bg_color=00000000&text_color=868686&include_all_commits=true">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=devlifeee&count_private=true?show_icons=true&hide_border=true&bg_color=00000000&text_color=868686&include_all_commits=true&layout=compact">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=devlifeee&theme=github_dark" alt=""/>
-</div>
-
-<div>
-  <img  src="https://github-readme-streak-stats.herokuapp.com/?user=devlifeee&theme=transparent&hide_border=true">
-</div>
-
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -49,6 +36,21 @@
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+
+
+## 📊STATS:
+
+<!--<div>
+  <img  align=top src="https://github-readme-stats.vercel.app/api?username=devlifeee&count_private=true?show_icons=true&hide_border=true&bg_color=00000000&text_color=868686&include_all_commits=true">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=devlifeee&count_private=true?show_icons=true&hide_border=true&bg_color=00000000&text_color=868686&include_all_commits=true&layout=compact">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=devlifeee&theme=github_dark" alt=""/>
+</div>-->
+
+<div>
+  <img  src="https://github-readme-streak-stats.herokuapp.com/?user=devlifeee&theme=transparent&hide_border=true">
+</div>
+
+
 
 <h3>My social networks </h3>
 
