@@ -40,13 +40,12 @@
 
 ## 📊STATS:
 
-<!--<div>
-  <img  align=top src="https://github-readme-stats.vercel.app/api?username=devlifeee&count_private=true?show_icons=true&hide_border=true&bg_color=00000000&text_color=868686&include_all_commits=true">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=devlifeee&count_private=true?show_icons=true&hide_border=true&bg_color=00000000&text_color=868686&include_all_commits=true&layout=compact">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=devlifeee&theme=github_dark" alt=""/>
-</div>-->
-
 <div>
+  <!--<img  align=top src="https://github-readme-stats.vercel.app/api?username=devlifeee&count_private=true?show_icons=true&hide_border=true&bg_color=00000000&text_color=868686&include_all_commits=true">
+  
+  <!--<img src="https://github-readme-stats.vercel.app/api/top-langs?username=devlifeee&count_private=true?show_icons=true&hide_border=true&bg_color=00000000&text_color=868686&include_all_commits=true&layout=compact"> -->
+  
+
   <img  src="https://github-readme-streak-stats.herokuapp.com/?user=devlifeee&theme=transparent&hide_border=true">
 </div>
 
