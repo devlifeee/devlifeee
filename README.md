@@ -17,9 +17,10 @@
 [![wakatime](https://wakatime.com/badge/user/252b5747-a88b-4c64-b802-fe2db981f1ee.svg)](https://wakatime.com/@252b5747-a88b-4c64-b802-fe2db981f1ee)
 
   ## My achivments:
-<h4> · Победитель Nuclear it hack 2025 от МИФИ</h4>
+<h4> · Призер Nuclear it hack 2025 от МИФИ</h4>
 <h4> · Призер турнира "Решись" от Центрального Университета</h4>
-
+<h4> · Победитель Nuclear It hack 2026 от МИФИ</h4>
+<h4> · Финалист олимпиады PROD 2026</h4>
 <h3> Tech Stack </h3>
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
