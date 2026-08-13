@@ -29,7 +29,6 @@
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![Windows 11](https://img.shields.io/badge/Windows%2011-%230079d5.svg?style=for-the-badge&logo=Windows%2011&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
@@ -39,16 +38,6 @@
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
 
-## 📊STATS:
-
-<div>
-  <!--<img  align=top src="https://github-readme-stats.vercel.app/api?username=devlifeee&count_private=true?show_icons=true&hide_border=true&bg_color=00000000&text_color=868686&include_all_commits=true">
-  
-  <!--<img src="https://github-readme-stats.vercel.app/api/top-langs?username=devlifeee&count_private=true?show_icons=true&hide_border=true&bg_color=00000000&text_color=868686&include_all_commits=true&layout=compact"> -->
-  
-
-  <img  src="https://github-readme-streak-stats.herokuapp.com/?user=devlifeee&theme=transparent&hide_border=true">
-</div>
 
 
 
