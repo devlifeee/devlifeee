@@ -44,6 +44,15 @@ Currently, I’m interested in the intersection of **frontend development, AI, a
 ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
+
+## GitHub Stats
+
+[![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=dany-simonov&theme=tokyonight&v=1)](https://github.com/devlifeee)
+[![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app/?user=devlifeee&theme=tokyonight&hide_border=true&background=1a1b27&stroke=7aa2f7&ring=7aa2f7&fire=7aa2f7&currStreakLabel=7aa2f7&v=1)](https://github.com/devlifeee)
+<br>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=devlifeee&theme=tokyonight&v=1" width="100%" />
+
 ### Socials
 
 <a href="mailto:imnovojilovivan@gmail.com">
