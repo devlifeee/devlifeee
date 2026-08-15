@@ -53,8 +53,4 @@ Currently, I’m interested in the intersection of **frontend development, AI, a
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=devlifeee&theme=tokyonight&v=1" width="100%" />
 
-### Socials
 
-<a href="mailto:imnovojilovivan@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
-</a>
