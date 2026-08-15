@@ -9,11 +9,8 @@
 ### About me
 
 I’m a **Frontend Developer** focused on building modern web applications with **React, TypeScript, and JavaScript**.
-
 I enjoy turning ideas into working products and regularly participate in **hackathons and industrial programming olympiads**, where I work on real-world problems and build solutions under tight deadlines.
-
 I also have experience with **B2B products**, working with frontend development, business requirements, and user scenarios.
-
 One of my projects became **one of the most popular projects at an olympiad**, reaching **100+ users within its first three days**.
 Currently, I’m interested in the intersection of **frontend development, AI, and product development**.
 
