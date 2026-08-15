@@ -1,8 +1,4 @@
-<h2 align="center"> Hello World! I am Ivan Novozhilov</h2>
-
-<!--<h2 align="center">
-  <a href="https://devlifee.ru">My  personal site</a>
-</h2>-->
+<h2 align="center">Hello World! I am Ivan Novozhilov</h2>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/devlifeee/devlifeee/output/github-contribution-grid-snake-dark.svg">
@@ -10,16 +6,29 @@
   <img alt="Snake Animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
 </picture>
 
+### About me
 
-## Total code time:
+I’m a **Frontend Developer** focused on building modern web applications with **React, TypeScript, and JavaScript**.
+
+I enjoy turning ideas into working products and regularly participate in **hackathons and industrial programming olympiads**, where I work on real-world problems and build solutions under tight deadlines.
+
+I also have experience with **B2B products**, working with frontend development, business requirements, and user scenarios.
+
+One of my projects became **one of the most popular projects at an olympiad**, reaching **100+ users within its first three days**.
+Currently, I’m interested in the intersection of **frontend development, AI, and product development**.
+
+### Achievements
+
+- 🥇 Winner — **Nuclear IT Hack 2026**, National Research Nuclear University MEPhI
+- 🥉 Prize-winner — **Nuclear IT Hack 2025**, National Research Nuclear University MEPhI
+- 🥉 Prize-winner — **"Решись" Tournament**, Central University
+-  Finalist — **PROD Olympiad 2026**
+
+### Total code time
+
 [![wakatime](https://wakatime.com/badge/user/252b5747-a88b-4c64-b802-fe2db981f1ee.svg)](https://wakatime.com/@252b5747-a88b-4c64-b802-fe2db981f1ee)
 
-  ## My achivments:
-<h4> · Победитель Nuclear It hack 2026 от НИЯУ МИФИ</h4>
-<h4> · Призер Nuclear it hack 2025 от НИЯУ МИФИ</h4>
-<h4> · Призер турнира "Решись" от Центрального Университета</h4>
-<h4> · Финалист заключительного этапа олимпиады PROD 2026</h4>
-<h3> Tech Stack </h3>
+### Tech Stack
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -35,13 +44,8 @@
 ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
-
-
-
-
-<h3>My social networks </h3>
+### Socials
 
 <a href="mailto:imnovojilovivan@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
 </a>
-
