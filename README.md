@@ -48,6 +48,6 @@ Currently, I’m interested in the intersection of **frontend development, AI, a
 [![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app/?user=devlifeee&theme=tokyonight&hide_border=true&background=1a1b27&stroke=7aa2f7&ring=7aa2f7&fire=7aa2f7&currStreakLabel=7aa2f7&v=1)](https://github.com/devlifeee)
 <br>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=devlifeee&theme=tokyonight&v=1" width="83%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=devlifeee&theme=tokyonight&v=1" width="100%" />
 
 
