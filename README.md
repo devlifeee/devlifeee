@@ -18,7 +18,7 @@ Currently, I’m interested in the intersection of **frontend development, AI, a
 
 - 🥇 Winner — **Nuclear IT Hack 2026**, National Research Nuclear University MEPhI
 - 🥉 Prize-winner — **Nuclear IT Hack 2025**, National Research Nuclear University MEPhI
-- 🥉 Prize-winner — **"Решись" Tournament**, Central University
+- 🥉 Prize-winner — **"Решись" Tournament**, Central University 2025
 -  Finalist — **PROD Olympiad 2026**
 
 ### Total code time
